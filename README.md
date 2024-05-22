@@ -4,6 +4,16 @@ I enjoy writing code to make my life a little easier. I am fond of coffee and cr
 
 * 🏴󠁵󠁳󠁶󠁡󠁿 - Based out of NoVA
 * 🤝 - Open to engaging with other code or self-host for good folks
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="32" height="32"/> -  linux gamer
+
+### Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32"/>
+</p>
 
 ### Find me at
 
