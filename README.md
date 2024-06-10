@@ -5,6 +5,7 @@ I enjoy writing code to make my life a little easier. I am fond of coffee and cr
 * 🏴󠁵󠁳󠁶󠁡󠁿 - Based out of NoVA
 * 🤝 - Open to engaging with other code or self-host for good folks
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="32" height="32"/> -  linux gamer
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirkland_Signature_logo.svg/178px-Kirkland_Signature_logo.svg.png" width="64" height="32"/>  - Wearer
 
 ### Languages
 <p align="left">
